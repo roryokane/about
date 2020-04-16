@@ -62,6 +62,22 @@ You don't need to use the full name of the product each time you refer to it, bu
 
 Only use "our" (as in "our GitHub integration") in discussion threads or informal documents; in documentation or marketing material, depending on the context, use "the" or "Sourcegraph".
 
+#### Features
+
+Refer to product features as normal, generic nouns.
+
+- Don't capitalize the first letter of each word. Features are not proper nouns.
+  - Good: Draft campaigns are available.
+  - Bad: Draft Campaigns are available.
+- Use the natural plural/singular form. If a feature name (such as "campaigns") is a plural noun, treat it as a plural noun.
+  - Good: Campaigns are available.
+  - Bad: Campaigns is available.
+  - Bad: Sourcegraph campaigns is available.
+- Refer to the natural noun of the product feature directly. Avoid `the ___ feature`.
+  - Good: Campaigns are available.
+  - Bad: The campaigns feature is available.
+- Only qualify feature names with `Sourcegraph $FEATURE` when absolutely necessary.
+
 ## Conventions
 
 ### UX
